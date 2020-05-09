@@ -1,0 +1,26 @@
+
+.product-item{
+  background:#dcf4fc;
+}
+
+.bg-light{
+  background-color: #02aadd:important;
+}
+.container {
+	margin-top:20px;
+}
+.feature-img{
+	max-height :200px;
+}
+.footer {
+   padding: 20px;
+   margin-top: 20px;
+   width: 100%;
+   background-color: #383d41;
+   color: white;
+   text-align: center;
+}
+  @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css');
+  .bg-dark {
+       background-color: #343a40!important;
+   }
